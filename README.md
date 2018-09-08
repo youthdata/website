@@ -1,2 +1,2 @@
-# website
-Youthdata are organization that focus on data science. This repository create to build website for youthdata organization.
+# YouthData Official Website
+Youthdata is organizations that focus on Data Science. This repository created to build website for youthdata organization.
